@@ -13,7 +13,7 @@ The key new things which i learned are:
 - Stucturing web page using **html**
 
 Live-Link for this project
-**[project-12](https://siri-live-project-12.netlify.app/ " Netlify")**
+**[project-12](https://domanin-name-siri.netlify.app " Netlify")**
 
 ___
 
