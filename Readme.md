@@ -1,11 +1,23 @@
-# live-project-12
+# Assignment-1
 
-### A project about Html and Css
+![badge1](https://img.shields.io/badge/Assignment--1-project--12-brightgreen)
+![badge2](https://img.shields.io/badge/-HTML-orange)
 
-In this project, i built web Page by using Html and Css.
+![badge](https://img.shields.io/badge/-CSS-blue)
 
-The total time taken to build this project was 4hours. 
+## Live-Project-12
 
-I hosted this project in Netlify.
+I build this web page using **HTML** and **CSS** and hosted this on **Netlify.** <br/>
+The key new things which i learned are:
+- CSS **positions**
+- Stucturing web page using **html**
 
-[project-12](https://siri-live-project-12.netlify.app/)
+Live-Link for this project
+**[project-12](https://siri-live-project-12.netlify.app/ " Netlify")**
+
+___
+
+Screenshort:
+![Screenshort](/Screenshot-live-project-12.png)
+
+
